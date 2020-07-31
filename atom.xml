@@ -10,7 +10,7 @@
  <id>http://jontaylor.dev/</id>
  <author>
    <name>Jonathan Esposito</name>
-   <email>jontaydev@icloud.com</email>
+   <email>hello@jontaylor.dev</email>
  </author>
 
  {% for post in site.posts %}
